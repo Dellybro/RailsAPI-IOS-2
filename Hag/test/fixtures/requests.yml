@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client_id: 1
+  provider_id: 1
+  request_message: MyString
+  seen: false
+
+two:
+  client_id: 1
+  provider_id: 1
+  request_message: MyString
+  seen: false
